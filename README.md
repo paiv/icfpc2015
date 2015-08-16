@@ -15,7 +15,7 @@ Implementation
 --------------
 
 * solver - C/C++
-* visuzalizer - Objective-C
+* visualizer - Objective-C
 
 
 Tetris player
