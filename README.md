@@ -2,7 +2,7 @@
 paiv - icfpc 2015
 =================
 
-![screenshot](notes/screenshot.png)
+<img src="notes/screenshot.png" alt="screenshot" width="240" />
 
 
 Notes
@@ -16,3 +16,9 @@ Implementation
 
 * solver - C/C++
 * visuzalizer - Objective-C
+
+
+Tetris player
+-------------
+
+[<img src="http://img.youtube.com/vi/LltusGirjjo/0.jpg" alt="video demo" width="240" />](http://www.youtube.com/watch?v=LltusGirjjo)
