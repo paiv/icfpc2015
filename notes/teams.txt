@@ -1,0 +1,24 @@
+
+http://www.reddit.com/r/icfpcontest
+https://webchat.freenode.net/   icfp-contest
+http://chatlogs.jabber.ru/icfpc@conference.jabber.ru/2015/08/
+
+http://icfpcontest.org/writeups.html
+http://www.sawicki.us/icfp/2015/
+http://win32asm.livejournal.com/26395.html
+http://turtle-bazon.blogspot.com/
+http://swizard.livejournal.com/197861.html
+https://blog.debiania.in.ua/posts/2015-08-11-icfpc-2015.html
+https://www.reddit.com/r/icfpcontest/comments/3gjddq/team_trup16_submission_15th_place/
+http://bokesan.blogspot.de/2015/08/icfp-contest-2015.html
+https://medium.com/@stanfy/cthulhu-fhtagn-d07e076368bf
+
+https://github.com/bokesan/icfp2015
+https://bitbucket.org/skobochka/icfpc-2015/src
+https://github.com/codingteam/icfpc-2015
+https://github.com/win32asm/hextris
+https://github.com/cashto/icfp2015
+https://github.com/MarcdeFalco/icfp15
+https://github.com/stanfy/icfpc2015
+
+https://dl.dropboxusercontent.com/u/32832587/icfpc2015_standings.html
